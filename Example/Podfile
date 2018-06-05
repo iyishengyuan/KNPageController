@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SPPages_Example' do
+  pod 'SPPages', :path => '../'
+
+  target 'SPPages_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
