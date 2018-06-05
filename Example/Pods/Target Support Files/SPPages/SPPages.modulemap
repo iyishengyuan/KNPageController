@@ -1,0 +1,6 @@
+framework module SPPages {
+  umbrella header "SPPages-umbrella.h"
+
+  export *
+  module * { export * }
+}

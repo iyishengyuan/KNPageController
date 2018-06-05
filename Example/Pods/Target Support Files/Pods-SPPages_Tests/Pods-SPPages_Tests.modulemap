@@ -1,0 +1,6 @@
+framework module Pods_SPPages_Tests {
+  umbrella header "Pods-SPPages_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

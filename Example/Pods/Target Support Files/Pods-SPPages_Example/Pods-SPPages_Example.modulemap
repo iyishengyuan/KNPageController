@@ -1,0 +1,6 @@
+framework module Pods_SPPages_Example {
+  umbrella header "Pods-SPPages_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
